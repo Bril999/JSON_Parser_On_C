@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "student_id": 0,
+      "student_name": "Andrew",
+      "student_record_number": 1337,
+      "student_rating": 4.15,
+      "student_attendance": 45,
+      "student_login": "andy"
+    },
+    {
+      "student_id": 1,
+      "student_name": "Nikita",
+      "student_record_number": 228,
+      "student_rating": 3.71,
+      "student_attendance": 34,
+      "student_login": "nikos"
+    },
+    {
+      "student_id": 2,
+      "student_name": "Dmitry",
+      "student_record_number": 69,
+      "student_rating": 4.88,
+      "student_attendance": 24,
+      "student_login": "aboba"
+    }
+  ]
+}
